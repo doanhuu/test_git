@@ -1,0 +1,7 @@
+git remote set-url origin https://github.com/doanhuu/repository
+
+
+git remote set-url origin https://github.com/doanhuu-1/repository
+
+
+git remote add origin https://github.com/doanhuu/remote-repository
